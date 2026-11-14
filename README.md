@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anjalirawat8181-spec/competetive-codin/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/anjalirawat8181-spec/competetive-codin/tree/master/0746-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/anjalirawat8181-spec/competetive-codin/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
